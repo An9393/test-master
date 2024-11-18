@@ -17,6 +17,8 @@ public class Test {
         // TODO code application logic here
         System.out.println("JJJ");
         System.out.println("This is a commit");
+        System.err.println("kdkdkd");
+        System.out.println("iieieie");
     }
     
 }
